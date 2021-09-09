@@ -1,0 +1,5 @@
+package com.assignment2_advance_web_dev.springbootbackend.model;
+
+public class Employee {
+
+}
